@@ -1,3 +1,4 @@
+# class which takes the word and its meaning and display it
 class FlashCard:
     def __init__(self, word, meaning):
         self.word = word
